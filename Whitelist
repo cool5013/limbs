@@ -1,0 +1,6 @@
+local whitelist = {
+"192897920", -- tunavearda
+"1990917180", -- stand alt
+"5041775951", -- dropper
+}
+return whitelist
