@@ -3,5 +3,6 @@ local whitelist = {
     "192897920", -- tunavearda
     "1990917180", -- stand alt
     "5041775951", -- dropper
+    "2615403718", -- bnx
 }
 return whitelist
