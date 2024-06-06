@@ -8,5 +8,6 @@ local whitelist = {
     "3063476894", -- bnx alt
     "1179792626", -- MyCat_a
     "1709376885" -- flee
+    "2611312597" -- DivineBladess
 }
 return whitelist
